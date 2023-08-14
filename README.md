@@ -4,6 +4,6 @@ Kaggle competition for time series forecasting
 https://www.kaggle.com/competitions/playground-series-s3e20/
 
 TODO:
-- analyze arima orders/trends
-- add exogenous data to sarimax model
+- analyze optimal sarimax orders/trends
+- auto-arima
 - submit output
